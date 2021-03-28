@@ -1,3 +1,5 @@
+# In the first file, called loopy_loops.py do the following:
+
 # Create a tuple named pokemon that holds the strings 'picachu', 'charmander', and 'bulbasaur'.
 # Using index notation, print() the string that located at index 1 in pokemon
 # Unpack the values of pokemon into the following three new variables with names starter1, starter2, starter3.
